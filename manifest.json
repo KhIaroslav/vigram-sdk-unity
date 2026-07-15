@@ -372,16 +372,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-ref/ViGram.DeviceMessage.SwitchProtocolAnswer.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-ref/ViGram.DeviceMessage.SwitchProtocolAnswer.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-ref/ViGram.DeviceMessage.Version.yml",
       "output": {
         ".html": {
@@ -416,16 +406,6 @@
       "output": {
         ".html": {
           "relative_path": "api-ref/ViGram.Direction.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-ref/ViGram.DirectionParser.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-ref/ViGram.DirectionParser.html"
         }
       },
       "version": ""

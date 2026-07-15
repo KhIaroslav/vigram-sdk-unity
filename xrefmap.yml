@@ -1902,37 +1902,6 @@ references:
   isSpec: "True"
   fullName: ViGram.DeviceMessage.Software.ToString
   nameWithType: DeviceMessage.Software.ToString
-- uid: ViGram.DeviceMessage.SwitchProtocolAnswer
-  name: DeviceMessage.SwitchProtocolAnswer
-  href: api-ref/ViGram.DeviceMessage.SwitchProtocolAnswer.html
-  commentId: T:ViGram.DeviceMessage.SwitchProtocolAnswer
-  fullName: ViGram.DeviceMessage.SwitchProtocolAnswer
-  nameWithType: DeviceMessage.SwitchProtocolAnswer
-- uid: ViGram.DeviceMessage.SwitchProtocolAnswer.#ctor(System.Byte)
-  name: SwitchProtocolAnswer(byte)
-  href: api-ref/ViGram.DeviceMessage.SwitchProtocolAnswer.html#ViGram_DeviceMessage_SwitchProtocolAnswer__ctor_System_Byte_
-  commentId: M:ViGram.DeviceMessage.SwitchProtocolAnswer.#ctor(System.Byte)
-  name.vb: New(Byte)
-  fullName: ViGram.DeviceMessage.SwitchProtocolAnswer.SwitchProtocolAnswer(byte)
-  fullName.vb: ViGram.DeviceMessage.SwitchProtocolAnswer.New(Byte)
-  nameWithType: DeviceMessage.SwitchProtocolAnswer.SwitchProtocolAnswer(byte)
-  nameWithType.vb: DeviceMessage.SwitchProtocolAnswer.New(Byte)
-- uid: ViGram.DeviceMessage.SwitchProtocolAnswer.#ctor*
-  name: SwitchProtocolAnswer
-  href: api-ref/ViGram.DeviceMessage.SwitchProtocolAnswer.html#ViGram_DeviceMessage_SwitchProtocolAnswer__ctor_
-  commentId: Overload:ViGram.DeviceMessage.SwitchProtocolAnswer.#ctor
-  isSpec: "True"
-  name.vb: New
-  fullName: ViGram.DeviceMessage.SwitchProtocolAnswer.SwitchProtocolAnswer
-  fullName.vb: ViGram.DeviceMessage.SwitchProtocolAnswer.New
-  nameWithType: DeviceMessage.SwitchProtocolAnswer.SwitchProtocolAnswer
-  nameWithType.vb: DeviceMessage.SwitchProtocolAnswer.New
-- uid: ViGram.DeviceMessage.SwitchProtocolAnswer.Answer
-  name: Answer
-  href: api-ref/ViGram.DeviceMessage.SwitchProtocolAnswer.html#ViGram_DeviceMessage_SwitchProtocolAnswer_Answer
-  commentId: F:ViGram.DeviceMessage.SwitchProtocolAnswer.Answer
-  fullName: ViGram.DeviceMessage.SwitchProtocolAnswer.Answer
-  nameWithType: DeviceMessage.SwitchProtocolAnswer.Answer
 - uid: ViGram.DeviceMessage.Version
   name: DeviceMessage.Version
   href: api-ref/ViGram.DeviceMessage.Version.html
@@ -2036,28 +2005,6 @@ references:
   commentId: F:ViGram.Direction.West
   fullName: ViGram.Direction.West
   nameWithType: Direction.West
-- uid: ViGram.DirectionParser
-  name: DirectionParser
-  href: api-ref/ViGram.DirectionParser.html
-  commentId: T:ViGram.DirectionParser
-  fullName: ViGram.DirectionParser
-  nameWithType: DirectionParser
-- uid: ViGram.DirectionParser.Parse(System.String)
-  name: Parse(string)
-  href: api-ref/ViGram.DirectionParser.html#ViGram_DirectionParser_Parse_System_String_
-  commentId: M:ViGram.DirectionParser.Parse(System.String)
-  name.vb: Parse(String)
-  fullName: ViGram.DirectionParser.Parse(string)
-  fullName.vb: ViGram.DirectionParser.Parse(String)
-  nameWithType: DirectionParser.Parse(string)
-  nameWithType.vb: DirectionParser.Parse(String)
-- uid: ViGram.DirectionParser.Parse*
-  name: Parse
-  href: api-ref/ViGram.DirectionParser.html#ViGram_DirectionParser_Parse_
-  commentId: Overload:ViGram.DirectionParser.Parse
-  isSpec: "True"
-  fullName: ViGram.DirectionParser.Parse
-  nameWithType: DirectionParser.Parse
 - uid: ViGram.DynamicStateType
   name: DynamicStateType
   href: api-ref/ViGram.DynamicStateType.html
@@ -3455,22 +3402,6 @@ references:
   isSpec: "True"
   fullName: ViGram.IPeripheralService.SatelliteMessages
   nameWithType: IPeripheralService.SatelliteMessages
-- uid: ViGram.IPeripheralService.Send(System.Byte[],System.Int32)
-  name: Send(byte[], int)
-  href: api-ref/ViGram.IPeripheralService.html#ViGram_IPeripheralService_Send_System_Byte___System_Int32_
-  commentId: M:ViGram.IPeripheralService.Send(System.Byte[],System.Int32)
-  name.vb: Send(Byte(), Integer)
-  fullName: ViGram.IPeripheralService.Send(byte[], int)
-  fullName.vb: ViGram.IPeripheralService.Send(Byte(), Integer)
-  nameWithType: IPeripheralService.Send(byte[], int)
-  nameWithType.vb: IPeripheralService.Send(Byte(), Integer)
-- uid: ViGram.IPeripheralService.Send*
-  name: Send
-  href: api-ref/ViGram.IPeripheralService.html#ViGram_IPeripheralService_Send_
-  commentId: Overload:ViGram.IPeripheralService.Send
-  isSpec: "True"
-  fullName: ViGram.IPeripheralService.Send
-  nameWithType: IPeripheralService.Send
 - uid: ViGram.IPeripheralService.SerialNumber
   name: SerialNumber
   href: api-ref/ViGram.IPeripheralService.html#ViGram_IPeripheralService_SerialNumber
